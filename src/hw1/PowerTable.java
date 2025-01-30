@@ -1,3 +1,5 @@
+package hw1;
+
 public class PowerTable {
     public static void main(String[] args) {
         System.out.println("a\tb\tpow(a, b)");

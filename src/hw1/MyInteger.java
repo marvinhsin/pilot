@@ -1,3 +1,5 @@
+package hw1;
+
 public class MyInteger {
     private int value;
 

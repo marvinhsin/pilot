@@ -1,3 +1,5 @@
+package hw1;
+
 public class SingleNumber {
     public static int findSingleNumber(int[] nums) {
         int result = 0;
